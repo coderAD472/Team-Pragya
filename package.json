@@ -5,7 +5,7 @@
   "type": "module",
 
   "engines": {
-    "node": "24.13.0"
+    "node": "20.x"
   },
   
   "scripts": {
@@ -29,4 +29,5 @@
     "autoprefixer": "^10.4.0"
   }
 }
+
 
